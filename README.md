@@ -14,7 +14,6 @@
 - [ ] JupyterNotebook
 - [ ] Kotlin
 - [ ] Lua
-- [ ] MySQL ?
 - [ ] Objective-C
 - [ ] Perl
 - [ ] PHP
